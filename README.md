@@ -1,10 +1,5 @@
 # Terminal-style-for-Website
-You can find a website developed with terminal style in mind, developed with html,css and js. 
+A terminal style developed for my old website, I used html, css and js for the front end and php for the back end. 
 
-## Below you can find the images:
-
-1.
-![Terminal](https://i.imgur.com/k5eoyzf.png)
-
-2.
-![Contact Us](https://i.imgur.com/QVK2Y3l.png)
+### To learn more information about my project go on my site:
+[ScriptIsle.com](https://scriptisle.com/terminal-style-for-website/)
